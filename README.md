@@ -3,7 +3,7 @@
 🌱 I’m currently learning Vue.js and exploring how to enhance interactivity and functionality in web design.
 💞️ I’m looking to collaborate on frontend projects, UI/UX designs, or any beginner-friendly coding initiatives.
 📫 How to reach me: You can connect with me on LinkedIn or email me at asongnkwellecourage@gmail.com.
-😄 Pronouns: He/Him
+😄 Pronouns: She/He
 ⚡ Fun fact: I love coding while listening to music and enjoy singing as a creative outlet! 🎵
 
 <!---
